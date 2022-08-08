@@ -9,7 +9,7 @@
 ## Table of Contents
 
 - [Class-01](https://github.com/Jeffrey-S-Smith/reading-notes-301/blob/main/class-01.md)
-- [Class-02](https://github.com/Jeffrey-S-Smith/reading-notes-301/blob/main/class-02.md)
+- [Class-02]([https://github.com/Jeffrey-S-Smith/reading-notes-301/blob/main/class-02.md)
 - [Class-03](https://github.com/Jeffrey-S-Smith/reading-notes-301/blob/main/class-03.md)
 - [Class-04](https://github.com/Jeffrey-S-Smith/reading-notes-301/blob/main/class-04.md)
 - [Class-05](https://github.com/Jeffrey-S-Smith/reading-notes-301/blob/main/class-05.md)
