@@ -1,6 +1,6 @@
 # reading-notes-301
 
-## Intermediate Software Development
+## Intermediate Software Developments
 
 ## Author
 
