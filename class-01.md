@@ -61,6 +61,10 @@ But the important part here is that data with props are being passed in a uni-di
 * Props data is immutable (read-only)
 * Props & State
 
+## Things I want to know more about
+
+This reading was explain the Based Architecture and characteristics of Components like prop and state. 
+
 ## Reading Sources
 
 [Component-Based Architecture. tutorialspoint](https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm),
