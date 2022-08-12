@@ -4,7 +4,7 @@
 
 ## React Docs - Thinking in React
 
-1. What is the <red>single responsibility principle</red> and how does it apply to components?
+1. What is the <p><red>single responsibility principle</red></P> and how does it apply to components?
 2. What does it mean to build a ‘static’ version of your application?
 3. Once you have a static application, what do you need to add?
 4. What are the three questions you can ask to determine if something is state?
