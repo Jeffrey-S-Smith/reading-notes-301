@@ -28,6 +28,7 @@
     Booleans, objects, arrays are just a couple examples.
 
 ## Things I want to know more about
+This is about react life cycle and componentDidMount and state. I need to keep looking and try to remember the life cycle.
 
 ## Bookmark and Review
 
