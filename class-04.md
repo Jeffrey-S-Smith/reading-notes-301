@@ -34,7 +34,7 @@
 ```
 
 ## Things I want to know more about
-
+Then it was talking about Higher function. from handling them with normal HTML. In React, we have controlled components, which means they update the state of a component every single time the user enters something into an input field.
 ## Bookmark and Review
 
 [React Docs - Forms. React Doc](https://reactjs.org/docs/forms.html),

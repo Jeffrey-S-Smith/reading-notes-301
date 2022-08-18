@@ -38,7 +38,7 @@
     The higher-order operation that represents this pattern is called reduce (sometimes also called fold). It builds a value by repeatedly taking a single element from the array and combining it with the current value.” Same idea as with map methods with regards to higher order functions, a different array is returned making it a high-order function.
 
 ## Things I want to know more about
-
+It is about React and static version of your application and about higher-order function, greaterThan function and map or reduce operates, with regards to higher-order functions.
 ## Bookmark and Review
 
 [React Docs - Thinking in React. React Doc](https://reactjs.org/docs/thinking-in-react.html),
