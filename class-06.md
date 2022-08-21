@@ -38,6 +38,7 @@ It means that the JavaScript code is run on the node. A JavaScript runtime is wh
     There is typically a ‘driver’ and a ‘navigator’. The driver is responsible for actually typing out the code and handling the mechanics of what is being coded. The navigator helps the driver by providing input with words and thinks about the how to put the code together, as well as looking for bugs.
 
 ## Things I want to know more about
+I learned about Node.js and what npm. How to run the commands to find what version that is install on my computer. Learned about why pair programming good and how it works.
 
 ## Bookmark and Review
 
