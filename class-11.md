@@ -69,7 +69,7 @@ Cross-platform support. There are still many improvements to be made on some sys
 They usually have not-really-useful management tools or console access.” -“https://pandorafms.com/blog/nosql-vs-sql-key-differences/"
 
 ## Things I want to know more about
-
+  This is the section on SQL and NoSql and what is the differences in both of them and how they work. Also the disadvantages and advantages in both.
 ## Bookmark and Review
 
 [nosql vs sql. by The Geek Stuff](https://www.thegeekstuff.com/2014/01/sql-vs-nosql-db/?utm_source=tuicool),

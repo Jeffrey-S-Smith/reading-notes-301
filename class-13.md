@@ -10,8 +10,6 @@ PUT
 
 ## Speed Coding: Building a CRUD API (Watch a Twitch streamer code an Express API in 20 minutes!)
 
-## Things I want to know more about
-
 1. What’s the relationship between REST and CRUD?
 REST is an architectural system centered around resources and Hypermedia using HTTP commands. CRUD is a cycle meant to maintain records in a database setting. In its base form, CRUD is a way of manipulating information, describing the function of an application. REST is controlling data through HTTP commands.
 
@@ -22,6 +20,10 @@ REST is an architectural system centered around resources and Hypermedia using H
 * Develop your API
 * Test your API
 * Monitor your API and iterate on feedback
+
+## Things I want to know more about
+  
+  This section is about SQL CRUD and the basic of it. It is also about REST. It also is about what the relationships that CRUD and Rest have.
 
 ## Bookmark and Review
 

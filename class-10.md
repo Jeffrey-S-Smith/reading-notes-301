@@ -39,6 +39,8 @@ It is a way to search for bugs in your code.
 
 ## Things I want to know more about
 
+This section is about JavaScript Call Stack and how it work and what is. This section is also about some errors when coding you will run into and way to fix the errors.
+
 ## Bookmark and Review
 
 [Understanding the JavaScript Call Stack. by Charles Freeborn](https://www.freecodecamp.org/news/understanding-the-javascript-call-stack-861e41ae61d4),

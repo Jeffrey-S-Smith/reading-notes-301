@@ -57,6 +57,8 @@ Put updates an entire resource while patch updates parts of it.
 
 ## Things I want to know more about
 
+This is reading on CRUD and it's Status Codes Based On REST Methods. What error codes you can set up and what they mean. This sections is also building a REST API With Node.js, Express, & MongoDB.
+
 ## Bookmark and Review
 
 [Status Codes Based On REST Methods. by moesif](https://www.moesif.com/blog/technical/api-design/Which-HTTP-Status-Code-To-Use-For-Every-CRUD-App/),

@@ -53,7 +53,7 @@ Comparing these processes to a real-world example, when you go through security 
 “Though we do not recommend it, highly-trusted applications can use the Resource Owner Password Flow, which requests that users provide credentials (username and password), typically using an interactive form. The Resource Owner Password Flow should only be used when redirect-based flows (like the Authorization Code Flow) cannot be used.”
 
 ## Things I want to know more about
-
+  This section is about OAuth. What it is and how it works, also examples. It is also about how it Authentication flows.
 ## Bookmark and Review
 
 [What is OAuth. By Roger A. Grimes and Josh Fruhlinger](https://www.csoonline.com/article/3216404/what-is-oauth-how-the-open-authorization-framework-works.html),

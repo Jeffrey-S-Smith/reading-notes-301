@@ -26,6 +26,10 @@ Diverse companies perform better is because When team members bring a variety of
 * L’Oréal
 * Lenovo
 
+## Things I want to know more about
+
+  This section is about the diversity & inclusion in the Tech Industry.
+
 ## Bookmark and Review
 
 [That Time When Women Stopped Coding. by NPR](https://www.npr.org/sections/money/2014/10/21/357629765/when-women-stopped-coding),
